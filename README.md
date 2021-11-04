@@ -1,6 +1,6 @@
 # sql-problems-nowcoder
 
-> the link of specific problem : 
+> the link of specific problem : `https://github.com/mbfjllybl/sql-problems-nowcoder/blob/main/SQL/SQL{number}.sql`
 >
 > the sign of not need to review : :heavy_check_mark:
 >
